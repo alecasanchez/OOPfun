@@ -9,3 +9,7 @@ const circle = {
     console.log("draw");
   }
 };
+
+circle.draw()
+// There are three members. draw is a function in an object which is called a method. the rest are properties. 100% fundamentally different learn this.
+
